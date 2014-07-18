@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/605/trunk/app/protected/config
+END
+db.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/89/trunk/app/protected/config/db.conf.php
+END
+common.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/600/trunk/app/protected/config/common.conf.php
+END
+routes.conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/605/trunk/app/protected/config/routes.conf.php
+END
